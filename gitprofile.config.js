@@ -88,14 +88,15 @@ const config = {
     //   imageUrl: 'https://via.placeholder.com/250x250',
     //   link: 'https://example.com',
     // },
-    // {
-    //   title: 'Project Name',
-    //   description:
-    //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-    //   imageUrl: 'https://via.placeholder.com/250x250',
-    //   link: 'https://example.com',
-    // },
-  ],
+    {
+      title: 'Automized detection of perpetuator of crime from CCTV footages',
+      description:
+        'The project was developed with the view of digitalizing the crime investigation space with the help of video analysis
+        and deep learning. This was aimed at automising the manual efforts required to skim through CCTV footages for criminal investigation
+        leveraging face detaction and color based detection algorithms.'
+
+    }
+  ]
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     // source: 'dev', // medium | dev
